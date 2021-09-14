@@ -1,3 +1,3 @@
 # pokemon_pokedex
 
-https://relaxed-mestorf-97b506.netlify.app/
+https://pokemon-pokedex-tarik.netlify.app/
